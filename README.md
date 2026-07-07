@@ -1,7 +1,7 @@
 # 📁 Professional Digital Filing System
 
 ![Repository
-Banner](Assets/Banner/Professional_Digital_Filing_System_Repository_Banner.png)
+Banner](Assets/Banner/Professional-Digital-Filing-System-Repository-Banner.png)
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/Version-1.0-success.svg)
@@ -15,7 +15,7 @@ Banner](Assets/Banner/Professional_Digital_Filing_System_Repository_Banner.png)
 
 # 👤 Author
 
-![Logo](Assets/Logo/Washington_Omondi_Mbara_Professional_Logo.png)
+![Logo](Assets/Logo/Washington-Omondi-Mbara-Professional-Logo.png)
 
 **Washington Omondi Mbara**
 
