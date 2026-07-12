@@ -22,7 +22,7 @@ Banner](Assets/Banner/Professional-Digital-Filing-System-Repository-Banner.png)
 **Technology \| Documentation \| Business Solutions**
 
 -   **GitHub:** https://github.com/omondimbara
--   **LinkedIn:** https://www.linkedin.com/in/washington-mbara-3b73b5399
+-   **LinkedIn:** https://www.linkedin.com/in/washingtonmbara
 
 ------------------------------------------------------------------------
 
